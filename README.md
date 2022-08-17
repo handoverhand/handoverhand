@@ -1,4 +1,5 @@
-### Hi there 👋
+### Привет! 👋
+Меня зовут Вадим, я full-stack разработчик из Санкт-Петербурга.
 
 <!--
 **handoverhand/handoverhand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

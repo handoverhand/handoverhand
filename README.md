@@ -1,6 +1,5 @@
-<h2 align="center">Hello 👋! My name is Vadim and I'm a full-stack developer from Saint Petersburg, Russia</h2>
-
-<h3 align="center"> 💬 You can reach me by Telegram: @VadimAkulenko</h3>
+<h2 align="center">👋 Hello! My name is Vadim and I'm a full-stack developer from Saint Petersburg, Russia</h2>
+<h3 align="center"> I also like football⚽, tennis🎾 and music🎧</h3>
 <hr>
 <h3 align="center">My main stack:</h3>
 
@@ -20,3 +19,7 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="75" height="75"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75"/> </a> 
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="75" height="75"/> </a> </p>
+
+<hr>
+<h3 align="center"> 📬You always can reach me by: 
+<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" alt="telegram" width="75" height="75"/> </a></h3>

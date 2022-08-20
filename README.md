@@ -1,7 +1,7 @@
-<h2 align="center">Hi 👋, my name is Vadim and I'm a full-stack developer from Russia</h2>
+<h2 align="center">Hello 👋! My name is Vadim and I'm a full-stack developer from Saint Petersburg, Russia</h2>
 
 <h3 align="center"> 💬 You can reach me by Telegram: @VadimAkulenko</h3>
-
+<hr>
 <h3 align="center">My main stack:</h3>
 
 <p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="75" height="75"/> </a>
@@ -20,17 +20,3 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="75" height="75"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75"/> </a> 
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="75" height="75"/> </a> </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-

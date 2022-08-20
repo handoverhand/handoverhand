@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello! My name is Vadim and I'm a full-stack developer from Saint Petersburg, Russia</h2>
+<h2 align="center">👋 Hello! My name is Vadim and I'm a full-stack developer from Saint-Petersburg, Russia</h2>
 <h3 align="center"> I also like football⚽, tennis🎾 and music🎧</h3>
 <hr>
 <h3 align="center">My main stack:</h3>
@@ -21,5 +21,7 @@
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="75" height="75"/> </a> </p>
 
 <hr>
-<h3 align="center"> 📬You always can reach me by: 
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" alt="telegram" width="75" height="75"/> </a></h3>
+<h3 align="center"> 📬You always can reach me by:</h3>
+<p align="center"><a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" alt="telegram" width="75" height="75"/> </a>
+<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/2048px-WhatsApp_logo-color-vertical.svg.png" alt="whatsup" width="75" height="75"/> </a>
+<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/800px-Gmail_icon_%282020%29.svg.png" alt="gmail" width="75" height="75"/> </a> </p>

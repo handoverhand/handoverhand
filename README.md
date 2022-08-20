@@ -2,7 +2,6 @@
 <h3 align="center"> I also like football⚽, tennis🎾 and music🎧</h3>
 <hr>
 <h3 align="center">My main stack:</h3>
-
 <p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="75" height="75"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="75" height="75"/> </a>
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="75" height="75"/> </a> 
@@ -19,9 +18,9 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="75" height="75"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75"/> </a> 
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="75" height="75"/> </a> </p>
-
 <hr>
-<h3 align="center"> 📬You always can reach me by:</h3>
+<h3 align="center"> 📬 You always can reach me by email: akulenkovadim@gmail.com.</h3>
+<h3 align="center"> 💬 Or just text me in messengers:</h3>
 <p align="center"><a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" alt="telegram" width="75" height="75"/> </a>
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/2048px-WhatsApp_logo-color-vertical.svg.png" alt="whatsup" width="75" height="75"/> </a>
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/800px-Gmail_icon_%282020%29.svg.png" alt="gmail" width="75" height="75"/> </a> </p>
+<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/4a/32/03/4a32031d-754f-f87a-3618-e476ea475732/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp" alt="wire" width="100" height="100"/> </a>
+<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/2048px-WhatsApp_logo-color-vertical.svg.png" alt="whatsup" width="75" height="75"/> </a> </p>

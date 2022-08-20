@@ -1,5 +1,5 @@
 <h2 align="center">👋 Hello! My name is Vadim and I'm a full-stack developer from Saint-Petersburg, Russia</h2>
-<h3 align="center"> I also like football⚽, tennis🎾 and music🎧</h3>
+<h3 align="center"> I like football⚽, tennis🎾, music🎧 and of course coding👨‍💻</h3>
 <hr>
 <h3 align="center">My main stack:</h3>
 <p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="75" height="75"/> </a>
@@ -19,8 +19,8 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75"/> </a> 
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="75" height="75"/> </a> </p>
 <hr>
-<h3 align="center"> 📬 You always can reach me by email: akulenkovadim@gmail.com.</h3>
+<h3 align="center"> 📬 You can always reach me by email: akulenkovadim@gmail.com.</h3>
 <h3 align="center"> 💬 Or just text me in messengers:</h3>
-<p align="center"><a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" alt="telegram" width="50" height="50"/> </a>
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/db/20/e1/db20e1d7-0ad7-7932-f5cf-a916dd51a53b/electron.png/1200x630bb.png" alt="wire" width="55" height="55"/> </a>
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://cdn2.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-whatsapp-circle-512.png" alt="whatsup" width="50" height="50"/> </a> </p>
+<p align="center"><a href="https://t.me/VadimAkulenko" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" alt="telegram" width="50" height="50"/> </a>
+<a href="https://account.wire.com/user-profile/?id=F67E25DE-04D7-4C21-BC19-A0EF65219E28" target="_blank" rel="noreferrer"> <img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/db/20/e1/db20e1d7-0ad7-7932-f5cf-a916dd51a53b/electron.png/1200x630bb.png" alt="wire" width="55" height="55"/> </a>
+<a href="https://wa.me/79110917357" target="_blank" rel="noreferrer"> <img src="https://cdn2.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-whatsapp-circle-512.png" alt="whatsup" width="50" height="50"/> </a> </p>

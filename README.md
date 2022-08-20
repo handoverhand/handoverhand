@@ -21,6 +21,6 @@
 <hr>
 <h3 align="center"> 📬 You always can reach me by email: akulenkovadim@gmail.com.</h3>
 <h3 align="center"> 💬 Or just text me in messengers:</h3>
-<p align="center"><a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" alt="telegram" width="75" height="75"/> </a>
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/4a/32/03/4a32031d-754f-f87a-3618-e476ea475732/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp" alt="wire" width="100" height="100"/> </a>
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/2048px-WhatsApp_logo-color-vertical.svg.png" alt="whatsup" width="75" height="75"/> </a> </p>
+<p align="center"><a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" alt="telegram" width="50" height="50"/> </a>
+<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/38/f0/1c/38f01c08-8f68-7c3e-c641-7454f16a5427/source/512x512bb.jpg" alt="wire" width="50" height="50"/> </a>
+<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/2048px-WhatsApp_logo-color-vertical.svg.png" alt="whatsup" width="50" height="50"/> </a> </p>

@@ -23,4 +23,4 @@
 <h3 align="center"> 💬 Or just text me in messengers:</h3>
 <p align="center"><a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" alt="telegram" width="50" height="50"/> </a>
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/db/20/e1/db20e1d7-0ad7-7932-f5cf-a916dd51a53b/electron.png/1200x630bb.png" alt="wire" width="55" height="55"/> </a>
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/2048px-WhatsApp_logo-color-vertical.svg.png" alt="whatsup" width="50" height="50"/> </a> </p>
+<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://cdn2.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-whatsapp-circle-512.png" alt="whatsup" width="50" height="50"/> </a> </p>

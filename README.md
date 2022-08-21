@@ -1,5 +1,5 @@
 <h2 align="center">👋 Hello! My name is Vadim and I'm a full-stack developer from Saint-Petersburg, Russia</h2>
-<h3 align="center"> I like football⚽, tennis🎾, music🎧 and of course coding👨‍💻</h3>
+<h3 align="center"> I love football⚽, tennis🎾, music🎧 and of course coding👨‍💻</h3>
 <hr>
 <h3 align="center">My main stack:</h3>
 <p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="75" height="75"/> </a>
